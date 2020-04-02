@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contadores/static/css/main.dd547555.chunk.css",
+    "main.js": "/contadores/static/js/main.ac7c8557.chunk.js",
+    "main.js.map": "/contadores/static/js/main.ac7c8557.chunk.js.map",
+    "runtime-main.js": "/contadores/static/js/runtime-main.7137c4ff.js",
+    "runtime-main.js.map": "/contadores/static/js/runtime-main.7137c4ff.js.map",
+    "static/js/2.100d44cc.chunk.js": "/contadores/static/js/2.100d44cc.chunk.js",
+    "static/js/2.100d44cc.chunk.js.map": "/contadores/static/js/2.100d44cc.chunk.js.map",
+    "index.html": "/contadores/index.html",
+    "precache-manifest.7c9b9b1ab5c77cd559a5c3a95212a8d6.js": "/contadores/precache-manifest.7c9b9b1ab5c77cd559a5c3a95212a8d6.js",
+    "service-worker.js": "/contadores/service-worker.js",
+    "static/css/main.dd547555.chunk.css.map": "/contadores/static/css/main.dd547555.chunk.css.map",
+    "static/js/2.100d44cc.chunk.js.LICENSE.txt": "/contadores/static/js/2.100d44cc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/contadores/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7137c4ff.js",
+    "static/js/2.100d44cc.chunk.js",
+    "static/css/main.dd547555.chunk.css",
+    "static/js/main.ac7c8557.chunk.js"
+  ]
+}
